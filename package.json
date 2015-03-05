@@ -1,0 +1,19 @@
+{
+  "name": "classlist-polyfill",
+  "version": "1.0.0",
+  "description": "MDN's ClassList Polyfill",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yola/classlist-polyfill.git"
+  },
+  "author": "Yola Engineering <engineers@yola.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yola/classlist-polyfill/issues"
+  },
+  "homepage": "https://github.com/yola/classlist-polyfill"
+}
