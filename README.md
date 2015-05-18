@@ -1,6 +1,6 @@
 # classlist-polyfill
 
-MDNs ClassList Polyfill
+MDNs [ClassList Polyfill](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 
 Usage:
 
