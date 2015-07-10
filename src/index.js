@@ -15,7 +15,7 @@
  * https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
  */
 
-if ("document" in self) {
+if ("document" in window.self) {
 
   // Full polyfill for browsers with no classList support
   if (!("classList" in document.createElement("_"))) {
@@ -184,7 +184,7 @@ if ("document" in self) {
       elemCtrProto.__defineGetter__(classListProp, classListGetter);
     }
 
-    }(self));
+    }(window.self));
 
     } else {
     // There is full or partial native classList support, so just check if we need
