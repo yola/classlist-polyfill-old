@@ -1,6 +1,7 @@
 # Changelog
 
-# Add support for missing SVGElement.classList in IE
+## 1.0.3
+* Add support for missing SVGElement.classList in IE
 
 ## 1.0.2
 
