@@ -11,7 +11,7 @@
     "url": "https://github.com/yola/classlist-polyfill.git"
   },
   "author": "Yola Engineering <engineers@yola.com>",
-  "license": "MIT",
+  "license": "Public Domain",
   "bugs": {
     "url": "https://github.com/yola/classlist-polyfill/issues"
   },
