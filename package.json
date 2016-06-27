@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/yola/classlist-polyfill/issues"
   },
-  "homepage": "https://github.com/yola/classlist-polyfill"
+  "homepage": "https://github.com/yola/classlist-polyfill",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-spec-reporter": "0.0.26"
+  },
+  "dependencies": {
+    "karma-sauce-launcher": "^1.0.0"
+  }
 }
