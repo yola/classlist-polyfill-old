@@ -4,7 +4,7 @@
   "description": "MDN's ClassList Polyfill",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/karma start phantom.conf.js"
   },
   "repository": {
     "type": "git",
