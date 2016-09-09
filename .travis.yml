@@ -1,6 +1,0 @@
-language: node_js
-node_js:
-  - 6
-script: node_modules/.bin/karma start phantom.conf.js --single-run
-before_script:
-    - npm install
